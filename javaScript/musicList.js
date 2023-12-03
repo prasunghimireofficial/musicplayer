@@ -66,7 +66,7 @@ let musicList = [
     img: "Images/Timro-Maya-ma.png",
     title: "Timro Maya Ma",
     artist: "Sushant KC",
-    music: "Musics/Sushant KC - Timro Maya.mp3",
+    music: "Musics/Sushant KC - Timro-Maya-Ma.mp3",
   },
 
   {
